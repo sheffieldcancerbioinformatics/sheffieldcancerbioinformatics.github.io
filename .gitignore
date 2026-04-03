@@ -1,0 +1,17 @@
+# Ignore .DS_Store files on MacOS
+.DS_Store
+
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
+
+# Ignore the directory for drafts and local files during development
+_drafts/
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ignore files created by npm
+node_modules
+package-lock.json
