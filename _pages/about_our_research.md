@@ -24,9 +24,9 @@ This programme builds on the long-standing research of Dr Quayle, whose work sin
 
 In Sheffield, this research is now led and expanded as a core programme of the group, integrating bioinformatic modelling with experimental approaches to dissect the signalling pathways and cellular states that enable tumour cells to survive treatment and re-initiate disease. Our long-term aim is to identify actionable targets to eliminate dormant tumour cell populations and prevent metastatic relapse.
 
-## Survival Analysis Modelling
+## Survival Analysis and Prognostic Modelling
 
-Survival analysis modelling forms a key methodological focus of the group. Survival analysis provides a framework for linking molecular and clinical features to patient outcomes, but current approaches often rely on arbitrary stratification of continuous variables such as gene expression. These limitations can obscure clinically meaningful signals, reduce reproducibility, and contribute to the misclassification or loss of potentially valuable biomarkers.
+Survival analysis forms a key methodological focus of the group. It provides a framework for linking molecular and clinical features to patient outcomes; however, current approaches often rely on arbitrary stratification of continuous variables such as gene expression. These practices can obscure clinically meaningful signals, reduce reproducibility, and limit the identification of potentially valuable biomarkers.
 
 <div align="center">
 	<img src="/images/figures/survival_analysis.png" width="auto" width="100%"/>
