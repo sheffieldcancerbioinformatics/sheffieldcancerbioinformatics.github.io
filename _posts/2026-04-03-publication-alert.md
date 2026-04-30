@@ -9,7 +9,7 @@ permalink: /posts/2026/04/publication-alert/
 
 ## Advancing Biomarker Stratification in Precision Oncology
 
-We are pleased to announce that our latest paper, *“Innovations in Biomarker Stratification for Precision Oncology”*, has been accepted for publication in *Clinical and Experimental Medicine* (1 April 2026).
+We are pleased to announce that our latest paper <a href="https://link.springer.com/article/10.1007/s10238-026-02150-2" target="_blank">"*Innovations in Biomarker Stratification for Precision Oncology*"</a> has been accepted for publication in *Clinical and Experimental Medicine* (1 April 2026).
 
 This review addresses a central challenge in modern cancer research: how to reliably translate continuous molecular biomarkers into clinically actionable insights. While survival analysis underpins much of precision oncology, commonly used approaches often rely on arbitrary thresholds - such as median splits - that can obscure biologically meaningful patterns and limit reproducibility across patient cohorts.
 
