@@ -1,11 +1,11 @@
 ---
-title: "Toni Beevers - Post-Doctoral Research Associate"
-excerpt: "<img src='/images/people/tbeevers.png' width='50%' style='display: block; margin: 0 left;'>"
+title: "Toni Brook - Post-Doctoral Research Associate"
+excerpt: "<img src='/images/people/tbrook.png' width='50%' style='display: block; margin: 0 left;'>"
 collection: group
 ---
 
 <br>
-<img src="/images/people/tbeevers.png" width="33%" style="display: block; margin: 0 left;">
+<img src="/images/people/tbrook.png" width="33%" style="display: block; margin: 0 left;">
 
 Toni is a postdoctoral researcher with expertise in cancer supportive care, scalp cooling, chemotherapy-induced alopecia, patient-reported outcomes, and applied data analysis. Her doctoral research investigated the factors influencing the efficacy of scalp cooling in preventing chemotherapy-induced alopecia, using large-scale real-world patient-reported data. Her work now, which is a joint project with <a href="https://profiles.shu.ac.uk/10030-nik-georgopoulos" target="_blank">Dr Nik Georgopoulos</a> (line manager), focuses on improving understanding of scalp cooling outcomes, supporting patient-centred care, and developing evidence to inform clinical practice and patient counselling.
 
