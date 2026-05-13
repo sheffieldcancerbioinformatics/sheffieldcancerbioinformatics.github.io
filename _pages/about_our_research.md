@@ -32,7 +32,7 @@ Survival analysis forms a key methodological focus of the group. It provides a f
 	<img src="/images/figures/survival_analysis.png" width="auto" width="100%"/>
 </div>
 <span class="caption">
-	<a href="/404" target="_blank">
+	<a href="https://link.springer.com/article/10.1007/s10238-026-02150-2" target="_blank">
 		Naeemaee, R. <em>et al.</em> (2026) Innovations in Biomarker Stratification for Precision Oncology
 	</a>
 </span>
