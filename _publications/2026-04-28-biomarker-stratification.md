@@ -2,8 +2,8 @@
 title: "Innovations in Biomarker Stratification for Precision Oncology"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-04-01-biomarker-stratification
-date: 2026-04-01
+permalink: /publication/2026-04-28-biomarker-stratification
+date: 2026-04-28
 venue: "Clinical and Experimental Medicine"
 paperurl: "https://link.springer.com/article/10.1007/s10238-026-02150-2"
 ---
