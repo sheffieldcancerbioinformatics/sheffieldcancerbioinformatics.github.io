@@ -2,12 +2,14 @@
 title: "Cell Press Host-Microbiome Dynamics Symposium"
 date: 2026-05-12
 permalink: /posts/2026/05/cell-press-host-microbiome-dynamics-symposium/
-# tags:
-#   - category1
-#   - category2
 ---
 
-We recently attended the Cell Press *Host-Microbiome Dynamics Symposium* in Bruges (May 10 - 12, 2026), which brought together a broad range of perspectives on host–microbe interactions, spanning fundamental microbial ecology through to translational and disease-focused research.
+We recently attended the *Cell Press Host-Microbiome Dynamics Symposium* in Bruges (May 10 - 12, 2026), which brought together a broad range of perspectives on host–microbe interactions, spanning fundamental microbial ecology through to translational and disease-focused research.
+
+<div align="center">
+	<img src="/images/news/cell-press-host-microbiome-dynamics-symposium.jpg" width="auto" width="75%"/>
+</div>
+<span class="caption">Nick Peake (SHEBCOR) Presenting Our Poster</span>
 
 At the meeting, my collegaue Nick Peake of <a href="https://sites.google.com/view/shebcor" target="_blank">Sheffield Bowel Cancer Research Group (SHEBCOR)</a> and I presented ongoing collaborative work exploring extracellular vesicle (EV)-microbiome interactions in cancer. This included new results on *Escherichia coli* behavioural responses to tumour-derived EVs, highlighting disruptions to metal ion homeostasis and broader shifts in bacterial activity.
 
