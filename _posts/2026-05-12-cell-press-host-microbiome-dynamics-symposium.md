@@ -9,7 +9,7 @@ We recently attended the *Cell Press Host-Microbiome Dynamics Symposium* in Brug
 <div align="center">
 	<img src="/images/news/cell-press-host-microbiome-dynamics-symposium.jpg" width="auto" width="75%"/>
 </div>
-<span class="caption">Nick Peake (SHEBCOR) Presenting Our Poster</span>
+<span class="caption">Nick Peake (SHEBCOR) presenting our poster</span>
 
 At the meeting, my collegaue Nick Peake of <a href="https://sites.google.com/view/shebcor" target="_blank">Sheffield Bowel Cancer Research Group (SHEBCOR)</a> and I presented ongoing collaborative work exploring extracellular vesicle (EV)-microbiome interactions in cancer. This included new results on *Escherichia coli* behavioural responses to tumour-derived EVs, highlighting disruptions to metal ion homeostasis and broader shifts in bacterial activity.
 
