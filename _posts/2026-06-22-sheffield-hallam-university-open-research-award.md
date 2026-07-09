@@ -15,3 +15,7 @@ The project is aimed at developing new and reproducible approaches for validatin
 A central focus of the project is ensuring that the outputs are available to the wider research community. Alongside peer-reviewed publications, we are developing open-source R packages, harmonised tumour compendia, and a browser-based application that will enable researchers and clinicians to apply advanced survival analysis methods without requiring programming expertise.  
 
 We are grateful to Sheffield Hallam University for recognising this work and for its continued support of open research.
+
+<div align="center">
+	<img src="/images/news/sheffield-hallam-university-open-research-award-article.png" width="auto" width="75%"/>
+</div>
