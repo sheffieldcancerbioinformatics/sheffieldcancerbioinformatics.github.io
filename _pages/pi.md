@@ -9,11 +9,11 @@ author_profile: true
 
 <img src="/images/people/lquayle.png" width="35%" style="display: block; margin: 0 left;">
 
-### **Senior Lecturer | Bioinformatician | Cancer Biologist**
+### **Lecturer | Bioinformatician | Cancer Biologist**
 
 ## Overview
 
-Dr. Lewis Quayle is a cancer biologist, bioinformatician and data scientist with a background that combines experimental and computational oncology. He currently works as Senior Lecturer in Data-Driven Cell Biology at Sheffield Hallam University and holds an honorary position as a Senior Lecturer in Bioinformatics at the University of Sheffield.
+Dr. Lewis Quayle is a cancer biologist and bioinformatician with expertise that combines experimental and computational oncology. He currently works as Lecturer in Bioscience at The University of Sheffield.
 
 Lewis trained in experimental oncology, receiving his PhD on the identification and characterisation of mitotically quiescent sub-clones in breast cancer from the University of Sheffield in 2018. He subsequently transitioned into computational oncology, combining wet-lab expertise with large-scale omics analyses.
 
@@ -35,11 +35,11 @@ Notable current collaborative projects include predictive modelling of EV-derive
 
 ## Teaching & Supervision
 
-Lewis has extensive experience teaching and supervising across biomedical and computational disciplines. He began supervising research projects during his MRes and has since supported undergraduate, BMedSci, MSc, and doctoral students across oncology, bioinformatics, and data science.
+Lewis has extensive experience teaching and supervising across biomedical and computational disciplines. He began supervising research projects during his MRes and has since supported undergraduate, BMedSci, MSc and doctoral students across oncology, bioinformatics and data science.
 
-He previously lectured on next-generation sequencing, bioinformatic analytics, and reproducible computational research within the MSc Translational Oncology and MSc Molecular Medicine programmes at the University of Sheffield. At Sheffield Hallam University, he lectures within the Digital Analytics and Technologies subject group and currently develops and leads the MSc Data Analytics Tools and Techniques module. He previously led the MSc modules Learning Systems and Data Analysis for Healthcare and Ethics of Healthcare Information, and contributes to the Advanced Data Management Project module on the MSc Big Data Analytics programme.
+Lewis began lecturing during his postdoctoral research at the University of Sheffield, teaching next-generation sequencing, bioinformatic analysis and reproducible computational research within the MSc Translational Oncology and MSc Molecular Medicine programmes. In 2023, he joined Sheffield Hallam University within the School of Computing and Digital Technologies, where he taught across data science and healthcare analytics. During this period, he developed and led the MSc Data Analytics Tools and Techniques, Learning Systems and Data Analysis for Healthcare and Ethics of Healthcare Information modules, and contributed to delivery of the Advanced Data Management Project module on the MSc Big Data Analytics programme. He subsequently moved to the School of Biosciences and Chemistry before returning to the University of Sheffield as a Lecturer in Bioscience.
 
-He has been awarded Fellowship of Advance HE (FHEA) in recognition of his alignment with the Professional Standards Framework (2023) and is a certified <a href="https://carpentries.org/" target="_blank">**The Carpentries**</a> instructor, delivering training in reproducible coding, data science, and research software practices.
+He was awarded Fellowship of Advance HE (FHEA) in 2023 and is a certified <a href="https://carpentries.org/" target="_blank">**The Carpentries**</a> instructor, delivering training in reproducible coding, data science and research software practices.
 
 ## Postgradute Supervision
 
@@ -101,6 +101,7 @@ Clinical & Experimental Metastasis<br>
 Discover Oncology<br>
 Journal of Cellular Biochemistry<br>
 Journal of Tissue Engineering and Regenerative Medicine<br>
+NPJ Breast Cancer<br>
 Scientific Reports<br>
 
 ### Funding Review

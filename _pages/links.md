@@ -7,13 +7,13 @@ author_profile: true
 
 ## Affiliate Research Groups
 
-<a href="https://profiles.shu.ac.uk/1741-simona-francese" target="_blank">Francese Lab</a><br>
+<a href="https://profiles.shu.ac.uk/1741-simona-francese" target="_blank">Francese Lab - Sheffield Hallam Univeristy</a><br>
 
-<a href="https://profiles.shu.ac.uk/10030-nik-georgopoulos" target="_blank">Georgopoulos Lab</a><br>
+<a href="https://profiles.shu.ac.uk/10030-nik-georgopoulos" target="_blank">Georgopoulos Lab - Sheffield Hallam Univeristy</a><br>
 
-<a href="https://sheffield.ac.uk/smph/people/academic/clinical-medicine/penelope-d-ottewell" target="_blank">Ottewell Lab</a><br>
+<a href="https://sheffield.ac.uk/smph/people/academic/clinical-medicine/penelope-d-ottewell" target="_blank">Ottewell Lab - The University of Sheffield</a><br>
 
-<a href="https://sites.google.com/view/shebcor" target="_blank">Sheffield Bowel Cancer Research Group (SHEBCOR)</a><br>
+<a href="https://sites.google.com/view/shebcor" target="_blank">Sheffield Bowel Cancer Research Group (SHEBCOR) - Sheffield Hallam Univeristy</a><br>
 
 ## Organisations and Consortia
 
